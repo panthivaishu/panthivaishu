@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @panthivaishu
-- 👀 I’m interested in listening music 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me insta@pyt._vaishu
-- 😄 Pronouns: vaishu
-- ⚡ Fun fact: ...
-
-<!---
-panthivaishu/panthivaishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Vaishnavi (@panthivaishu)
+- 💻 I’m a Web Development enthusiast, currently learning **HTML, CSS, JavaScript & Bootstrap**
+- 🔭 Currently working on: small front‑end projects and internship tasks
+- 👀 Interests: responsive web design, clean UI, and beginner‑friendly open‑source projects
+- 💞️ I’m looking to collaborate on:
+  - landing pages  
+  - portfolio websites  
+  - small JavaScript projects  
+  - UI/UX improvements or CSS redesigns
+- 📫 How to reach me:  
+  - LinkedIn – [Vaishnabi Panthi](https://www.linkedin.com/in/vaishnabi-panthi-460771319/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can spend hours fixing one small CSS bug until it finally listens to me 🙂
